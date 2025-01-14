@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @rephaelTAS
-- 👀 I’m interested in back end progran
-- 🌱 I’m currently learning python, node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Olá, eu sou [Seu Nome]
 
-<!---
-rephaelTAS/rephaelTAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 Atualmente trabalhando em: **[Projeto Atual](link-do-projeto)**  
+🌱 Aprendendo: **[Tecnologia que está estudando]**  
+📫 Como me encontrar: [LinkedIn](link) | [Portfólio](link) | [E-mail](mailto:seuemail)
+
+## 🛠️ Habilidades
+- **Linguagens**: Python, Java, JavaScript
+- **Frameworks**: Django, Spring Boot, React
+- **Banco de Dados**: PostgreSQL, MySQL
+- **Ferramentas**: Docker, Git, CI/CD
+
+## 📂 Projetos em Destaque
+- [Projeto 1](link) - Breve descrição do projeto.
+- [Projeto 2](link) - Breve descrição do projeto.
+
+## 📊 Estatísticas
+![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=dark)
