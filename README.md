@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou [Rafael Tavares]
 
-🔭 Atualmente trabalhando em: **[Projeto Atual]([link-do-projeto](https://github.com/rephaelTAS/NexusFX))**  
+🔭 Atualmente trabalhando em: **[Projeto Atual](link-do-projeto](https://github.com/rephaelTAS/NexusFX))**  
 🌱 Aprendendo: **[Tecnologia que está estudando]**  
 📫 Como me encontrar: [LinkedIn](link) | [Portfólio](link) | [E-mail](mailto:seuemail)
 
