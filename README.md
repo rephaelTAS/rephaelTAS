@@ -2,7 +2,7 @@
 
 🔭 Atualmente trabalhando em: **[Projeto Atual](link-do-projeto](https://github.com/rephaelTAS/NexusFX))**  
 🌱 Aprendendo: **[Tecnologia que está estudando]**  
-📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/rephael-tavares-18bb6a350/)) | [Portfólio](link) | [E-mail](mailto:seuemail)
+📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/rephael-tavares-18bb6a350/) | [Portfólio](link) | [E-mail](mailto:seuemail)
 
 ## 🛠️ Habilidades
 - **Linguagens**:Java
